@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+libraries
+.vs/voiceAssist/v17/ipch/AutoPCH
